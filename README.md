@@ -1,4 +1,4 @@
-<div align="center">
+```<div align="center">
 
 <img src="https://raw.githubusercontent.com/saran-21/saran-21/main/banner.svg" alt="banner" width="100%"/>
 
@@ -7,6 +7,7 @@
 <img src="https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif" width="350">
 
 </div>
+```
 
 ---
 
